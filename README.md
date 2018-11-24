@@ -67,6 +67,7 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
 + [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert of AI - Andrew Ng
 + [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). 中文版在[这里](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 + [Intro to Machine Learning](https://cn.udacity.com/course/intro-to-machine-learning--ud120) - A course from Udacity - Katie Malone, Sebastian Thrun
++ [莫烦Python](https://morvanzhou.github.io/) - 机器学习相关教程 - [周沫凡](https://morvanzhou.github.io/about/)
 
 ## Git
 
