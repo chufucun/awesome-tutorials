@@ -1,2 +1,90 @@
-# awesome-tutorials
-Awesome Tutorials
+# Awesome-tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome tutorials: book, blog, course, code...
+
+## Contributing
+
+Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-tutorials/issues) or Pull Request 
+
+## Table of Contents
+
+  - [Java](#java)
+  - [Python](#python)
+  - [crawler](#Scrapy)
+  - [Big Data](#big-data)
+  - [Deep Learning](#deep-learning)
+  - [Machine Learning](#machine-learning)
+  - [Git](#git)
+  - [Free Books](#free-book)
+
+## Java
+ 
+#### Books
++ [Java® Notes for Professionals book](https://goalkicker.com/JavaBook/)
+
+#### Blog
+
+#### Courses
+
+#### Framework
++ [JHipster](https://www.jhipster.tech/) - JHipster is a fully Open Source, widey used application generator. Easily create high-quality Spring Boot + Angular/React projects! 中文版在[这里](https://www.jhipster-cn.tech/)
+
+## Python
+
+#### Courses
++ [Python Course](https://www.python-course.eu) - Free comprehensive online tutorials suitable for self-study and high-quality on-site Python courses
++ [Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) - 中文，免费，零起点，完整示例，基于最新的Python3 - 廖雪峰
+
+## Crawler
+
+#### Resource
++ [Awesome Scrapy](https://github.com/michael-yin/awesome-scrapy) - A curated list of awesome packages, articles, and other cool resources from the Scrapy community.
++ [Awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
++ [Frontera](https://github.com/scrapinghub/frontera) - A scalable frontier for web crawlers. 中文版在[这里](https://frontera-docs-zh-cn.readthedocs.io/zh_CN/latest/index.html)
+
+#### Blog
++ [frontera—最好的scrapy 分布式框架](https://www.jianshu.com/p/ff8846ad0e94)
+
+## Big Data
+
+#### Blog
++ [从入门到精通-Fayson带你玩转CDH](https://mp.weixin.qq.com/s?__biz=MzI4OTY3MTUyNg==&mid=100003774&idx=1&sn=f4180e2f5162b92c6665b220376a5fff&chksm=6c2adfb75b5d56a1038a1dfed4c1ab35564c17e663de8df36a9310189b9ea40ca318063552d1&scene=18#rd)
+
+## Deep Learning  
+
+#### Books
++ [Deep Learning Book](http://www.deeplearningbook.org/) - A bestseller book about Deep Learning, written by top experts of AI. Really recommend this.
+
+#### Courses
++ [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning) - A course from top expert of AI - Andrew Ng
+
+## Machine Learning
+
+#### Blog
++ [Machine Learning Mastery](https://machinelearningmastery.com/) - Learn a lots trick from there. Good blog for Machine Learning
++ [Towards Data Science](https://medium.com/towards-data-science) - Sharing concepts, ideas and codes about Data Science
+
+#### Courses
++ [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning) - A course from top expert of AI - Andrew Ng
++ [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). 中文版在[这里](https://github.com/MLEveryday/100-Days-Of-ML-Code)
++ [机器学习入门](https://cn.udacity.com/course/intro-to-machine-learning--ud120-enterprise) - A course from udacity - Katie Malone, Sebastian Thrun
+
+## Git
+
+#### Books
++ [Pro Git](https://git-scm.com/book/zh/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress
++ [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
+
+## Free Books
+
++ [Programming Notes for Professionals books](https://goalkicker.com/) - Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, ... NET Framework Notes for Professionals book
++ [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/) - The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org). 中文资源在[这里](https://ebookfoundation.github.io/free-programming-books/free-programming-books-zh.html)
++ [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) - justjavac
+
+## Other
+
++ [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+ 中文版在[这里](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
++ [LeetCode](https://leetcode.com/) - The World's Leading Online Programming Learning Platform. [领扣中国](https://leetcode-cn.com)
++ [LintCode 领扣](https://www.lintcode.com) - 空前强大的在线编程训练系统。 [参考答案](https://www.jiuzhang.com/solutions/)
++ [Tecmint](https://www.tecmint.com/) - Linux Howtos, Tutorials & Guides
++ [Awesome-programming-tutorials](https://github.com/TranBaVinhSon/awesome-programming-tutorials)
