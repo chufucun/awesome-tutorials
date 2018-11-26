@@ -20,6 +20,7 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
  
 #### Books
 + [Java® Notes for Professionals book](https://goalkicker.com/JavaBook/)
+* Effective Java 3rd Edition - Joshua Bloch
 
 #### Blog
 
