@@ -20,8 +20,8 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
  
 #### Books
 + [Java® Notes for Professionals book](https://goalkicker.com/JavaBook/)
-* Effective Java 3rd Edition - Joshua Bloch
-* [Java Concurrency in Practice](http://jcip.net/)
+* [Effective Java 3rd Edition](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) - The Definitive Guide to Java Platform Best Practices–Updated for Java 7, 8, and 9 - Joshua Bloch
+* [Java Concurrency in Practice](http://jcip.net/) 
 
 #### Blog
 
