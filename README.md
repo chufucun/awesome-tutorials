@@ -15,12 +15,12 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
   - [Deep Learning](#deep-learning)
   - [Machine Learning](#machine-learning)
   - [Git](#git)
-  - [Free Books](#free-book)
+  - [Free Books](#free-books)
 
 ## Math
 
 #### Courses
-* [3blue1brown](http://www.3blue1brown.com/)  - focuses on higher education mathematics with a distinct visual perspective - Grant Sanderson
+* [3blue1brown](http://www.3blue1brown.com/)  - focuses on higher education mathematics with a distinct visual perspective - Grant Sanderson 熟肉在[这里](https://space.bilibili.com/88461692)
 
 ## Java
  
