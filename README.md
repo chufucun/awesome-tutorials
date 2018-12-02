@@ -7,6 +7,7 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
 
 ## Table of Contents
 
+  - [Math](#math)
   - [Java](#java)
   - [Python](#python)
   - [crawler](#Scrapy)
@@ -15,6 +16,11 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
   - [Machine Learning](#machine-learning)
   - [Git](#git)
   - [Free Books](#free-book)
+
+## Math
+
+#### Courses
+* [3blue1brown](http://www.3blue1brown.com/)  - focuses on higher education mathematics with a distinct visual perspective - Grant Sanderson
 
 ## Java
  
