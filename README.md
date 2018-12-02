@@ -54,10 +54,11 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
 ## Deep Learning  
 
 #### Books
-+ [Deep Learning Book](http://www.deeplearningbook.org/) - A bestseller book about Deep Learning, written by top experts of AI. Really recommend this.
+* [Deep Learning Book](http://www.deeplearningbook.org/) - A bestseller book about Deep Learning, written by top experts of AI. Really recommend this.
 
 #### Courses
-+ [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning) - A course from top expert of AI - Andrew Ng
+* [Deep Learning Andrew Ng](https://www.coursera.org/specializations/deep-learning) - A course from top expert of AI - Andrew Ng
+* [Tensorflow and deep learning without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)  - A crash course in six episodes for software developers who want to become machine learning practitioners - martin_gorner
 
 ## Machine Learning
 
