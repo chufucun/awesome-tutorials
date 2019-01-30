@@ -80,9 +80,17 @@ Welcome to contribute, you can use [issues](https://github.com/chufucun/awesome-
 
 ## Git
 
+#### Blog
++ [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - A best practice
++ [Pull Request Tutorial](https://yangsu.github.io/pull-request-tutorial/)
++ [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) - ,中文版[在这](https://github.com/oldratlee/translations/blob/master/git-workflows-and-tutorials/README.md)
+
 #### Books
 + [Pro Git](https://git-scm.com/book/zh/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress
 + [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
+
+#### Courses
++ [Learn Git Branching](https://learngitbranching.js.org/) - 
 
 ## Free Books
 
